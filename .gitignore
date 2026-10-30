@@ -1,0 +1,9 @@
+inventory.ini
+*.retry
+.vscode/
+.idea/
+.DS_Store
+artifacts/
+*.pem
+id_rsa*
+id_ed25519*

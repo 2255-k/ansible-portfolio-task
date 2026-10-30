@@ -1,0 +1,8 @@
+---
+- name: Configure Nginx and deploy the portfolio website
+  hosts: web_servers
+  become: true
+  gather_facts: true
+  roles:
+    - nginx
+    - portfolio

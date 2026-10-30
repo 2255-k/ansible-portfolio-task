@@ -1,0 +1,5 @@
+---
+# TODO (Member 3): Create the web root if necessary.
+# TODO: Copy index.html, about.html, projects.html, contact.html, and style.css
+# from the role's files directory to portfolio_web_root.
+# TODO: Set suitable owner/group/mode for static web content.

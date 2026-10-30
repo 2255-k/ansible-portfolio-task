@@ -1,0 +1,3 @@
+---
+# TODO: Add a handler to reload or restart Nginx if configuration changes
+# require it. Notify this handler only from tasks that change Nginx config.

@@ -1,0 +1,6 @@
+---
+# Adjust these values for the target Linux distribution and environment.
+nginx_package_name: nginx
+nginx_service_name: nginx
+portfolio_web_root: /var/www/html
+portfolio_source_dir: "{{ playbook_dir }}/roles/portfolio/files"

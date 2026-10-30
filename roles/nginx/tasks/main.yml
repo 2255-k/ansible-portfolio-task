@@ -1,0 +1,4 @@
+---
+# TODO (Member 1): Add an Ansible task to install the Nginx package.
+# TODO (Member 2): Add tasks to ensure the Nginx service is enabled and running.
+# Consider package/service naming differences across Linux distributions.
