@@ -1,8 +1,5 @@
 # Automated Portfolio Website Deployment Using Ansible Roles
 
-## Project duration
-2 days | Team size: 4 members
-
 ## Objective
 Use Ansible roles to install and configure Nginx on a Linux target and deploy a static portfolio website built with HTML and CSS.
 
